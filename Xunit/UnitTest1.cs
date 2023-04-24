@@ -1,4 +1,7 @@
-namespace Xunit
+using Xunit;
+using System;
+
+namespace Xunit1
 {
     public class UnitTest1
     {
